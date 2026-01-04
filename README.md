@@ -3,7 +3,7 @@ This project demonstrates the process of data analysis, data cleaning, and data 
 Loading a dataset into Python for initial exploration.
 Performing Exploratory Data Analysis (EDA) to understand patterns and anomalies.
 Cleaning and preprocessing the data to ensure consistency.
-Running SQL queries on PostgreSQL/MySQL/SQL Server to extract relevant insights.
+Running SQL queries on MySQL Server to extract relevant insights.
 Building an interactive Power BI dashboard to visualize key metrics.
 Creating a report and PPT using Gamma for presenting the findings.
 Dataset
