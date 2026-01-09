@@ -1,5 +1,5 @@
 Data Analytics Project: Sales Data Analysis and Reporting Overview
-This project demonstrates the process of data analysis, data cleaning, and data visualization. The project includes the following key steps:
+This project demonstrates the process of Data analysis, Data cleaning, and Data visualization. The project includes the following key steps:
 Loading a dataset into Python for initial exploration.
 Performing Exploratory Data Analysis (EDA) to understand patterns and anomalies.
 Cleaning and preprocessing the data to ensure consistency.
